@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarcoValerioQuinti
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Front End Development 
+- 👀 I’m interested in Statistics applied to Economics
 - 📫 How to reach me quintimarcovalerio@gmail.com
 
 <!---
